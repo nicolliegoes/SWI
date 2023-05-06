@@ -1,0 +1,15 @@
+C:\Users\Jayane\OneDrive\Área de Trabalho\EMSPRETIMO_BANCARIO\bin\Debug\net6.0\EMSPRETIMO_BANCARIO.exe
+C:\Users\Jayane\OneDrive\Área de Trabalho\EMSPRETIMO_BANCARIO\bin\Debug\net6.0\EMSPRETIMO_BANCARIO.deps.json
+C:\Users\Jayane\OneDrive\Área de Trabalho\EMSPRETIMO_BANCARIO\bin\Debug\net6.0\EMSPRETIMO_BANCARIO.runtimeconfig.json
+C:\Users\Jayane\OneDrive\Área de Trabalho\EMSPRETIMO_BANCARIO\bin\Debug\net6.0\EMSPRETIMO_BANCARIO.dll
+C:\Users\Jayane\OneDrive\Área de Trabalho\EMSPRETIMO_BANCARIO\bin\Debug\net6.0\EMSPRETIMO_BANCARIO.pdb
+C:\Users\Jayane\OneDrive\Área de Trabalho\EMSPRETIMO_BANCARIO\obj\Debug\net6.0\EMSPRETIMO_BANCARIO.csproj.AssemblyReference.cache
+C:\Users\Jayane\OneDrive\Área de Trabalho\EMSPRETIMO_BANCARIO\obj\Debug\net6.0\EMSPRETIMO_BANCARIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayane\OneDrive\Área de Trabalho\EMSPRETIMO_BANCARIO\obj\Debug\net6.0\EMSPRETIMO_BANCARIO.AssemblyInfoInputs.cache
+C:\Users\Jayane\OneDrive\Área de Trabalho\EMSPRETIMO_BANCARIO\obj\Debug\net6.0\EMSPRETIMO_BANCARIO.AssemblyInfo.cs
+C:\Users\Jayane\OneDrive\Área de Trabalho\EMSPRETIMO_BANCARIO\obj\Debug\net6.0\EMSPRETIMO_BANCARIO.csproj.CoreCompileInputs.cache
+C:\Users\Jayane\OneDrive\Área de Trabalho\EMSPRETIMO_BANCARIO\obj\Debug\net6.0\EMSPRETIMO_BANCARIO.dll
+C:\Users\Jayane\OneDrive\Área de Trabalho\EMSPRETIMO_BANCARIO\obj\Debug\net6.0\refint\EMSPRETIMO_BANCARIO.dll
+C:\Users\Jayane\OneDrive\Área de Trabalho\EMSPRETIMO_BANCARIO\obj\Debug\net6.0\EMSPRETIMO_BANCARIO.pdb
+C:\Users\Jayane\OneDrive\Área de Trabalho\EMSPRETIMO_BANCARIO\obj\Debug\net6.0\EMSPRETIMO_BANCARIO.genruntimeconfig.cache
+C:\Users\Jayane\OneDrive\Área de Trabalho\EMSPRETIMO_BANCARIO\obj\Debug\net6.0\ref\EMSPRETIMO_BANCARIO.dll
