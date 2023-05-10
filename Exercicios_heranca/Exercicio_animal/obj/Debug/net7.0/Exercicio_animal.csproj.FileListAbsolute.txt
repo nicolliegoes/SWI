@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\Exercicio_animal\bin\Debug\net7.0\Exercicio_animal.exe
+C:\Users\LAB4\Desktop\Exercicio_animal\bin\Debug\net7.0\Exercicio_animal.deps.json
+C:\Users\LAB4\Desktop\Exercicio_animal\bin\Debug\net7.0\Exercicio_animal.runtimeconfig.json
+C:\Users\LAB4\Desktop\Exercicio_animal\bin\Debug\net7.0\Exercicio_animal.dll
+C:\Users\LAB4\Desktop\Exercicio_animal\bin\Debug\net7.0\Exercicio_animal.pdb
+C:\Users\LAB4\Desktop\Exercicio_animal\obj\Debug\net7.0\Exercicio_animal.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Exercicio_animal\obj\Debug\net7.0\Exercicio_animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Exercicio_animal\obj\Debug\net7.0\Exercicio_animal.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Exercicio_animal\obj\Debug\net7.0\Exercicio_animal.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Exercicio_animal\obj\Debug\net7.0\Exercicio_animal.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Exercicio_animal\obj\Debug\net7.0\Exercicio_animal.dll
+C:\Users\LAB4\Desktop\Exercicio_animal\obj\Debug\net7.0\refint\Exercicio_animal.dll
+C:\Users\LAB4\Desktop\Exercicio_animal\obj\Debug\net7.0\Exercicio_animal.pdb
+C:\Users\LAB4\Desktop\Exercicio_animal\obj\Debug\net7.0\Exercicio_animal.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Exercicio_animal\obj\Debug\net7.0\ref\Exercicio_animal.dll
