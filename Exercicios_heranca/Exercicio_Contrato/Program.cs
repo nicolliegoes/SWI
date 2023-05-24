@@ -20,7 +20,7 @@ class Program
         PF.Idade = 34; 
 
 
-        Console.WriteLine("Nome da pessoa juridica: " + PJ.Nome + "--Usuario do email: " + PJ.Email + "--Com o telefone: " + PJ.Telefone + "Possuindo o Cnpj: " + PJ.Cnpj + "Possuindo o IE: " + PJ.IE + "Sendo o nome da empresa: " + PJ.NomeEmpresa + (PJ.MostraDados()));
-        Console.WriteLine("Nome da pessoa fisica: " + PF.Nome + "--Usuario do email: " + PF.Email + "--Com o telefone: " + PF.Telefone + "Possuindo o Cpf: " + PF.Cpf + "Tendo: " + PF.Idade + "anos" + (PJ.MostraDados()));
+        Console.WriteLine("Nome da pessoa juridica: " + PJ.Nome + " Usuario do email: " + PJ.Email + " Com o telefone: " + PJ.Telefone + " Possuindo o Cnpj: " + PJ.Cnpj + " Possuindo o IE: " + PJ.IE + " Sendo o nome da empresa: " + PJ.NomeEmpresa + (PJ.MostraDados()));
+        Console.WriteLine("Nome da pessoa fisica: " + PF.Nome + " Usuario do email: " + PF.Email + " Com o telefone: " + PF.Telefone + " Possuindo o Cpf: " + PF.Cpf + " Tendo: " + PF.Idade + "anos" + (PF.MostraDados()));
 }
 }

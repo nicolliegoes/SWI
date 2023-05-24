@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LAB4\\Desktop\\Exercicio_Contrato\\Exercicio_Contrato.csproj": {}
+    "C:\\Users\\LAB4\\Desktop\\Exercicio_Prestacao\\Exercicio_Prestacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LAB4\\Desktop\\Exercicio_Contrato\\Exercicio_Contrato.csproj": {
+    "C:\\Users\\LAB4\\Desktop\\Exercicio_Prestacao\\Exercicio_Prestacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LAB4\\Desktop\\Exercicio_Contrato\\Exercicio_Contrato.csproj",
-        "projectName": "Exercicio_Contrato",
-        "projectPath": "C:\\Users\\LAB4\\Desktop\\Exercicio_Contrato\\Exercicio_Contrato.csproj",
+        "projectUniqueName": "C:\\Users\\LAB4\\Desktop\\Exercicio_Prestacao\\Exercicio_Prestacao.csproj",
+        "projectName": "Exercicio_Prestacao",
+        "projectPath": "C:\\Users\\LAB4\\Desktop\\Exercicio_Prestacao\\Exercicio_Prestacao.csproj",
         "packagesPath": "C:\\Users\\LAB4\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LAB4\\Desktop\\Exercicio_Contrato\\obj\\",
+        "outputPath": "C:\\Users\\LAB4\\Desktop\\Exercicio_Prestacao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
