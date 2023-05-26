@@ -3,7 +3,8 @@ class Contrato
 {
 
     public double Valorpretacao{get;set;}
+    public double Prazo{get;set;}
     public virtual double calcularPrestacao(){
-        return Valorpretacao/12;
+        return Valorpretacao/Prazo;
     }
 }
