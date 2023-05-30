@@ -1,0 +1,15 @@
+C:\Users\macht\OneDrive\Desktop\Exercicios_Prestacao\obj\Debug\net6.0\Exercicios_Prestacao.csproj.AssemblyReference.cache
+C:\Users\macht\OneDrive\Desktop\Exercicios_Prestacao\obj\Debug\net6.0\Exercicios_Prestacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macht\OneDrive\Desktop\Exercicios_Prestacao\obj\Debug\net6.0\Exercicios_Prestacao.AssemblyInfoInputs.cache
+C:\Users\macht\OneDrive\Desktop\Exercicios_Prestacao\obj\Debug\net6.0\Exercicios_Prestacao.AssemblyInfo.cs
+C:\Users\macht\OneDrive\Desktop\Exercicios_Prestacao\obj\Debug\net6.0\Exercicios_Prestacao.csproj.CoreCompileInputs.cache
+C:\Users\macht\OneDrive\Desktop\Exercicios_Prestacao\bin\Debug\net6.0\Exercicios_Prestacao.exe
+C:\Users\macht\OneDrive\Desktop\Exercicios_Prestacao\bin\Debug\net6.0\Exercicios_Prestacao.deps.json
+C:\Users\macht\OneDrive\Desktop\Exercicios_Prestacao\bin\Debug\net6.0\Exercicios_Prestacao.runtimeconfig.json
+C:\Users\macht\OneDrive\Desktop\Exercicios_Prestacao\bin\Debug\net6.0\Exercicios_Prestacao.dll
+C:\Users\macht\OneDrive\Desktop\Exercicios_Prestacao\bin\Debug\net6.0\Exercicios_Prestacao.pdb
+C:\Users\macht\OneDrive\Desktop\Exercicios_Prestacao\obj\Debug\net6.0\Exercicios_Prestacao.dll
+C:\Users\macht\OneDrive\Desktop\Exercicios_Prestacao\obj\Debug\net6.0\refint\Exercicios_Prestacao.dll
+C:\Users\macht\OneDrive\Desktop\Exercicios_Prestacao\obj\Debug\net6.0\Exercicios_Prestacao.pdb
+C:\Users\macht\OneDrive\Desktop\Exercicios_Prestacao\obj\Debug\net6.0\Exercicios_Prestacao.genruntimeconfig.cache
+C:\Users\macht\OneDrive\Desktop\Exercicios_Prestacao\obj\Debug\net6.0\ref\Exercicios_Prestacao.dll
