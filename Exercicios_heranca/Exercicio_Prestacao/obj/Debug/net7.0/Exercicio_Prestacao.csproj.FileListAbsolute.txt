@@ -1,5 +1,0 @@
-C:\Users\macht\OneDrive\Desktop\Exercicio_Prestacao\obj\Debug\net7.0\Exercicio_Prestacao.csproj.AssemblyReference.cache
-C:\Users\macht\OneDrive\Desktop\Exercicio_Prestacao\obj\Debug\net7.0\Exercicio_Prestacao.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\macht\OneDrive\Desktop\Exercicio_Prestacao\obj\Debug\net7.0\Exercicio_Prestacao.AssemblyInfoInputs.cache
-C:\Users\macht\OneDrive\Desktop\Exercicio_Prestacao\obj\Debug\net7.0\Exercicio_Prestacao.AssemblyInfo.cs
-C:\Users\macht\OneDrive\Desktop\Exercicio_Prestacao\obj\Debug\net7.0\Exercicio_Prestacao.csproj.CoreCompileInputs.cache
